@@ -1116,11 +1116,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\.NET\\WFP\\MVVM\\LoginPanelBase\\LoginPanelBase\\LoginPanelBase.csproj",
+      "projectUniqueName": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\LoginRegiserBaseProj\\LoginPanelBase\\LoginPanelBase\\LoginPanelBase.csproj",
       "projectName": "LoginPanelBase",
-      "projectPath": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\.NET\\WFP\\MVVM\\LoginPanelBase\\LoginPanelBase\\LoginPanelBase.csproj",
+      "projectPath": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\LoginRegiserBaseProj\\LoginPanelBase\\LoginPanelBase\\LoginPanelBase.csproj",
       "packagesPath": "C:\\Users\\nikok\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\.NET\\WFP\\MVVM\\LoginPanelBase\\LoginPanelBase\\obj\\",
+      "outputPath": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\LoginRegiserBaseProj\\LoginPanelBase\\LoginPanelBase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

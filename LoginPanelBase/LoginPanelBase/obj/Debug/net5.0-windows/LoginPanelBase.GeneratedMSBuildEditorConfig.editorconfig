@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = LoginPanelBase
-build_property.ProjectDir = C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\WFP\MVVM\LoginPanelBase\LoginPanelBase\
+build_property.ProjectDir = C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\LoginRegiserBaseProj\LoginPanelBase\LoginPanelBase\

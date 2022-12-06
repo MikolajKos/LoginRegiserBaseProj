@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "epmP6gOhnCJvTlEvjc3jEWi17f0rmwL/xdakaTVqZTmrMSQbS8TWlWO6V1RcwOIIHjhy95nsQtz1FnrHtmUUxQ==",
+  "dgSpecHash": "XGT9DGHWu9kCvnZksEhhC5rFko/NWQHSlrzKgf4pQDpInbUzvgYyABSLWHBK2F6A6jPdOKoSPPmez3fD9Xdd6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\.NET\\WFP\\MVVM\\LoginPanelBase\\LoginPanelBase\\LoginPanelBase.csproj",
+  "projectFilePath": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\LoginRegiserBaseProj\\LoginPanelBase\\LoginPanelBase\\LoginPanelBase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nikok\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\nikok\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
